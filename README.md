@@ -55,7 +55,6 @@ Examples of topics may include (but are not limited to):
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/sujal-maheshwari2004/Quants-and-Finance.git
 cd Quants-and-Finance
 
@@ -122,7 +121,4 @@ If you find it useful or insightful, feel free to star the repository ⭐
 
 Happy learning and coding 📘🐍
 
-```
 
-Just tell me the direction you prefer.
-```
